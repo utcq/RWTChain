@@ -1,3 +1,11 @@
+.root { background-color: #141414;}
+body {background-color: #141414;}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* make scrollbar transparent */
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +43,62 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.NavBar {
+  background-color: #343a40;
+  height:auto;
+}
+
+nav .navbar-nav li a{
+  color: white !important;
+  background-color: #343a40;
+  height:auto;
+}
+
+.nav-item {
+  color: white !important;
+}
+
+.navbar-nav > .nav-item{
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.searchint {
+  margin-left: 15px;
+}
+
+
+table, thead, th {
+  border:1px solid white;
+}
+th {
+color:white;
+font-size:10pt;
+}
+
+.blocktable {
+  border-radius: 6px;
+  border-color: red;
+  background: #343a40;
+  margin-bottom: 25px;
+  width: 95%;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  border-radius: 6px;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  border-color: red;
+  text-align:justify;
+}
+
+.paragraph {
+  background-color: #2b3035;
 }
