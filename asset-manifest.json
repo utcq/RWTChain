@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RWTChain/static/css/main.68332698.css",
+    "main.js": "/RWTChain/static/js/main.08ba8e18.js",
+    "index.html": "/RWTChain/index.html",
+    "main.68332698.css.map": "/RWTChain/static/css/main.68332698.css.map",
+    "main.08ba8e18.js.map": "/RWTChain/static/js/main.08ba8e18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68332698.css",
+    "static/js/main.08ba8e18.js"
+  ]
+}
