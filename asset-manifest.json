@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/RWTChain/static/css/main.68332698.css",
-    "main.js": "/RWTChain/static/js/main.08ba8e18.js",
-    "index.html": "/RWTChain/index.html",
-    "main.68332698.css.map": "/RWTChain/static/css/main.68332698.css.map",
-    "main.08ba8e18.js.map": "/RWTChain/static/js/main.08ba8e18.js.map"
+    "main.css": "/static/css/main.d0fdc46b.css",
+    "main.js": "/static/js/main.df6aa58a.js",
+    "index.html": "/index.html",
+    "main.d0fdc46b.css.map": "/static/css/main.d0fdc46b.css.map",
+    "main.df6aa58a.js.map": "/static/js/main.df6aa58a.js.map"
   },
   "entrypoints": [
-    "static/css/main.68332698.css",
-    "static/js/main.08ba8e18.js"
+    "static/css/main.d0fdc46b.css",
+    "static/js/main.df6aa58a.js"
   ]
 }
