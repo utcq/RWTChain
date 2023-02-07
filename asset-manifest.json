@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0fdc46b.css",
-    "main.js": "/static/js/main.df6aa58a.js",
-    "index.html": "/index.html",
-    "main.d0fdc46b.css.map": "/static/css/main.d0fdc46b.css.map",
-    "main.df6aa58a.js.map": "/static/js/main.df6aa58a.js.map"
+    "main.css": "/RWTChain/static/css/main.d0fdc46b.css",
+    "main.js": "/RWTChain/static/js/main.df6aa58a.js",
+    "index.html": "/RWTChain/index.html",
+    "main.d0fdc46b.css.map": "/RWTChain/static/css/main.d0fdc46b.css.map",
+    "main.df6aa58a.js.map": "/RWTChain/static/js/main.df6aa58a.js.map"
   },
   "entrypoints": [
     "static/css/main.d0fdc46b.css",
